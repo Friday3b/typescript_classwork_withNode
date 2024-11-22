@@ -43,10 +43,10 @@ class Person {
 }
 
 
-const person2 = new Person(adminProperties);
+const person = new Person(adminProperties);
 
 
-person2.getInfo();
+person.getInfo();
 
 
 
